@@ -1,6 +1,4 @@
-Claro! Aqui está o arquivo `README.md` revisado, sem as seções de Contributing e License:
 
-```markdown
 # Voice Command Recognition System
 
 This project leverages speech recognition to execute specific system commands. It captures audio input from the microphone, transcribes the speech, and executes configured commands based on the recognized speech.
