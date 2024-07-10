@@ -1,0 +1,7 @@
+{
+  "navegador": "start Chrome.exe",
+  "Excel": "start Excel.exe",
+  "PowerPoint": "start POWERPNT.exe",
+  "Edge": "start msedge.exe",
+  "Fechar": "Exit"
+}
